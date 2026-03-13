@@ -1,3 +1,5 @@
+see: **[Issues](/issues/)**
+
 # Cantor ∞
 
 ### An AI agent that lives in this repository.
