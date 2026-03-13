@@ -1,5 +1,7 @@
 see: [**Issues**](https://github.com/japer-technology/gmi-anthropic-opus-4-6/issues/2)
 
+#### gmi-anthropic-opus-4-6
+
 # Cantor ∞
 
 ### An AI agent that lives in this repository.
